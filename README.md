@@ -1,14 +1,6 @@
 # Neon-Genesis-Evangelion-2-PSP-korean-fan-translation
 Neon Genesis Evangelion 2 PSP korean fan translation
 <img width="960" height="544" alt="ULJS00064_00011" src="https://github.com/user-attachments/assets/59ed166f-d54c-480f-ab65-16b7dc04ce60" />
-## 출처 및 라이선스 안내
-
-본 작업물은 [EVA-zh-Hans/nge_2_re](https://github.com/EVA-zh-Hans/nge_2_re) 저장소를 기반으로 수정되었습니다.
-
-- **소스 코드 라이선스:** GNU General Public License v3.0 (GPL-3.0)
-- **번역 텍스트 라이선스:** CC BY-NC-SA 4.0 (비영리 목적, 동일 조건 공유)
-- **원본 게임 자산:** 원저작자 및 원개발사에 저작권이 있습니다.
-
 
 신세기 에반게리온 2 - 만들어진 세계 - Another Cases
 한국어 패치 · 원작 버그 수정 통합판
@@ -60,3 +52,13 @@ PSP 일본판 ULJS-00064 1.01의 수정하지 않은 원본 ISO와 xdeltaUI가 �
 - 전투 위치 보정에서 빠져 있던 탐색 방향을 복원했습니다. 유닛이 막힌 지형에 끼이면 충돌과 케이블 조건을 통과하는 위치로 복구하도록 수정했습니다.
 - 도그마에서 날짜가 넘어간 직후 카지 등이 집으로 한 번 더 이동하는 문제를 수정했습니다. 다음 수동 이동의 출발지도 현재 위치로 갱신합니다.
 - 출장, 하룻밤 경과, 전투 종료로 날짜를 넘길 때 경과 일수를 입원 기간에 반영하도록 수정했습니다.
+
+- ## 출처 및 라이선스 안내
+
+본 작업물은 [EVA-zh-Hans/nge_2_re](https://github.com/EVA-zh-Hans/nge_2_re) 저장소를 기반으로 수정되었습니다.
+
+- **소스 코드 라이선스:** GNU General Public License v3.0 (GPL-3.0)
+- **번역 텍스트 라이선스:** CC BY-NC-SA 4.0 (비영리 목적, 동일 조건 공유)
+- **원본 게임 자산:** 원저작자 및 원개발사에 저작권이 있습니다.
+
+
