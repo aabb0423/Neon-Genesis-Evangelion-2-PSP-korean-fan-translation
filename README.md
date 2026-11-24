@@ -1,6 +1,6 @@
 # Neon-Genesis-Evangelion-2-PSP-korean-fan-translation
 Neon Genesis Evangelion 2 PSP korean fan translation
-
+<img width="960" height="544" alt="ULJS00064_00011" src="https://github.com/user-attachments/assets/59ed166f-d54c-480f-ab65-16b7dc04ce60" />
 ## 출처 및 라이선스 안내
 
 본 작업물은 [EVA-zh-Hans/nge_2_re](https://github.com/EVA-zh-Hans/nge_2_re) 저장소를 기반으로 수정되었습니다.
